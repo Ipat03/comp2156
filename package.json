@@ -1,0 +1,20 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD Your changes in the README.md ======= Changes from the remote repository >>>>>>> 7b1e3d9... added header for readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ipat03/comp2156.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ipat03/comp2156/issues"
+  },
+  "homepage": "https://github.com/Ipat03/comp2156#readme"
+}
